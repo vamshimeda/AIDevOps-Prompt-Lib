@@ -1,4 +1,6 @@
-# AIDevOps-Prompt-Lib
+# AIDevOps-Prompt-Library
+
+Inital Work of Vamshi Meda - https://www.linkedin.com/in/vamshi-meda/
 Prompt Library for AI infusion in DevOps
 # AI DevOps Prompt Library
 
